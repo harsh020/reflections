@@ -23,7 +23,10 @@ organized? How would branches help?
   1. work on current project parallely without affectng the main project.
   2. add a new feature
   Branching helps keep project organized.
+
 How do the diagrams help you visualize the branch structure?
+  It helps us visualize when a certain branch was made, i.e, after which commit.
+  It helps in knowing whether commits are reachable, i.e, reachability.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
