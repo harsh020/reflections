@@ -36,3 +36,6 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+  cons: Git compares areas while merging two branches.
+  pro: Automatic merging is quite easy and useful when no area of code is deleted
+       or no new area of code is added.
